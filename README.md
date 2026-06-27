@@ -12,7 +12,7 @@ This project performs **Exploratory Data Analysis (EDA)** and **Geographic Visua
 
 The dataset contains state-wise health statistics including obesity, anaemia, hypertension, and blood sugar percentages for both men and women.
 
-![Dataset Preview](images/dataset_preview.png)
+![Dataset Preview](image8.jpg)
 
 ---
 
