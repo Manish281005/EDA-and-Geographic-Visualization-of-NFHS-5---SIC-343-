@@ -26,7 +26,7 @@ A new feature, **Gender Obesity Gap**, was created to measure the difference bet
 Gender Obesity Gap = Women Obesity − Men Obesity
 ```
 
-![Feature Engineering](images/gender_obesity_gap.png)
+![Feature Engineering](image7.jpg)
 
 ---
 
@@ -39,7 +39,7 @@ Key observations:
 - Women and Men obesity are strongly positively correlated.
 - Children anaemia has a weak negative correlation with obesity.
 
-![Correlation Matrix Table](images/correlation_table.png)
+![Correlation Matrix Table](image6.jpg)
 
 ---
 
@@ -47,7 +47,7 @@ Key observations:
 
 The heatmap visually represents correlations between obesity and anaemia indicators.
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](image5.jpg)
 
 ---
 
@@ -55,7 +55,7 @@ The heatmap visually represents correlations between obesity and anaemia indicat
 
 The following table lists the states with the highest hypertension percentages for men and women.
 
-![Top 10 States Table](images/top10_states_table.png)
+![Top 10 States Table](image4.jpg)
 
 ---
 
@@ -63,7 +63,7 @@ The following table lists the states with the highest hypertension percentages f
 
 A grouped bar chart compares hypertension percentages between men and women across the top affected states.
 
-![Hypertension Bar Chart](images/hypertension_bar_chart.png)
+![Hypertension Bar Chart](image3.jpg)
 
 ---
 
@@ -73,7 +73,7 @@ Scatter plot showing the relationship between women's anaemia and obesity percen
 
 Each point represents one state.
 
-![Scatter Plot](images/anaemia_vs_obesity.png)
+![Scatter Plot](image2.jpg)
 
 ---
 
@@ -88,7 +88,7 @@ Example shown:
 
 Hovering over a state displays detailed statistics.
 
-![Interactive Map](images/geographic_visualization.png)
+![Interactive Map](image1.jpg)
 
 ---
 
